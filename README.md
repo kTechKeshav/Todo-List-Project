@@ -1,12 +1,28 @@
-# React + Vite
+# 📝 Todo List Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Todo List App**, a clean and functional task manager built with **React** and integrated with **localStorage** to help you track your tasks effortlessly. Whether you're a developer testing productivity tools or just looking to organize your day, this app is for you.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 [Check out the live project here!](https://todo-list-proj-react.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ✅ Add new todos with ease  
+- ✅ Delete tasks with a single click  
+- ✅ Automatically saves your tasks using browser **localStorage**  
+- ✅ Sleek and minimal UI for distraction-free task management  
+- ✅ Real-time state updates using React Hooks
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Frontend UI)
+- **JavaScript** (Functionality)
+- **HTML & CSS** (Structure & Styling)
+- **localStorage** (Data Persistence)
+
+---
